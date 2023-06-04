@@ -1,9 +1,9 @@
-## 1.137.1 (2023-06-03)
+## 1.138.4 (2023-06-04)
 
 
 ### Bug Fixes
 
-* responsive height to youtube embeds ([#7308](https://github.com/EddieHubCommunity/LinkFree/issues/7308)) ([50c3094](https://github.com/EddieHubCommunity/LinkFree/commit/50c30942e5328ed3988afab973a63e8e986457af))
+* search page cleanup ([#7288](https://github.com/EddieHubCommunity/LinkFree/issues/7288)) ([374ca1c](https://github.com/EddieHubCommunity/LinkFree/commit/374ca1cc42217cd074284410213c688124c27e63))
 
 
 
